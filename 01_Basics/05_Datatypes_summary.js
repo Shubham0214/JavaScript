@@ -42,3 +42,8 @@ console.log(typeof heroes);     //object
 
 // Javascript is dynamically type language
 
+// Stack and Heap Memory
+
+// Stack used in Primitive data types
+// Heap used in non-primitive or object 
+
